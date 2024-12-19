@@ -1,11 +1,11 @@
 body {        
     margin: 0;
     font-family: 'Arial', sans-serif;
-    background: linear-gradient(120deg, #84fab0, #8fd3f4);
-    color: #333;
+    background: linear-gradient(120deg, #FF9933, #FFFFFF, #138808); /* Saffron, white, green */
+    color: #222;
 }
 header {
-    background: #003366;
+    background: #FF9933; /* Saffron */
     color: #fff;
     padding: 1em 0;
     text-align: center;
@@ -18,7 +18,7 @@ header h1 {
 }
 @keyframes glow {
     from { text-shadow: 0 0 5px #fff; }
-    to { text-shadow: 0 0 20px #00ffcc; }
+    to { text-shadow: 0 0 20px #FFDD44; } /* Golden glow */
 }
 nav {
     margin-top: 1em;
@@ -31,7 +31,7 @@ nav a {
     transition: color 0.3s ease;
 }
 nav a:hover {
-    color: #00ffcc;
+    color: #FFDD44; /* Accent saffron */
 }
 main {
     padding: 2em;
@@ -44,10 +44,10 @@ main {
 }
 main h2 {
     font-size: 2em;
-    color: #003366;
+    color: #138808; /* Green */
 }
 footer {
-    background: #003366;
+    background: #138808; /* Green */
     color: #fff;
     text-align: center;
     padding: 1em 0;
@@ -61,11 +61,10 @@ footer p {
     font-size: 0.9em;
 }
 footer a {
-    color: #00ffcc;
+    color: #FF9933; /* Saffron */
     text-decoration: none;
     font-size: 1.2em;
 }
 footer a:hover {
     text-decoration: underline;
 }
-
