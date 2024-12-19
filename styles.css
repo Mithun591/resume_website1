@@ -1,7 +1,7 @@
 body {        
     margin: 0;
     font-family: 'Arial', sans-serif;
-    background: linear-gradient(120deg, #FF9933, #FFFFFF, #138808); /* Saffron, white, green */
+    background: linear-gradient(120deg, #FF9933, #FFFFFF, #138808); 
     color: #222;
 }
 header {
