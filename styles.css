@@ -2,7 +2,7 @@ body {
     margin: 0;
     font-family: 'Arial', sans-serif;
     background: linear-gradient(120deg, blue, orange, black); /* Saffron, white, green */
-    color: #222;
+    color: #444;
 }
 header {
     background: #FF9933; /* Saffron */
