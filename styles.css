@@ -1,7 +1,7 @@
 body {        
     margin: 0;
     font-family: 'Arial', sans-serif;
-    background: linear-gradient(120deg, #FF9933, #FFFFFF, #138808); 
+    background: red; 
     color: #222;
 }
 header {
