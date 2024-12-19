@@ -4,7 +4,7 @@ body {
     background: linear-gradient(135deg,red,pink,blue);
     background-size: 400% 400%;
     animation: gradientShift 10s ease infinite;
-    color: #222;
+    color: #333;
     line-height: 1.6;
 }
 
